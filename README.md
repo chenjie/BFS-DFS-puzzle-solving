@@ -58,6 +58,7 @@ $ python3 word_ladder_puzzle.py
 
 * BFS and DFS are both uninformed search algorithms. BFS is capable of finding shortest path solution but it's not memory efficient. In contrast, DFS uses a lot less memory, but it's not guaranteed to find a solution if the depth of the search tree is infinite.
 * A* with clever heuristic will save your life.
+* [Pacman](http://stanford.edu/~cpiech/cs221/homework/prog/pacman/pacman.html) in Stanford CS221
 
 ## Contributing to this project
 
