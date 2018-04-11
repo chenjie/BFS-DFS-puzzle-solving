@@ -18,7 +18,7 @@ $ git clone https://github.com/jellycsc/BFS-DFS-puzzle-solving.git
 $ cd BFS-DFS-puzzle-solving/
 ```
 
-## Solving Sudoku
+### Solving Sudoku
 ![Sudoku](mdres/sudoku.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Sudoku solution](mdres/sudoku_sol.svg)  
 Image source: https://en.wikipedia.org/wiki/Sudoku
@@ -26,21 +26,21 @@ Image source: https://en.wikipedia.org/wiki/Sudoku
 $ python3 sudoku_puzzle.py
 ```
 
-## Solving Peg solitaire
+### Solving Peg solitaire
 ![Peg solitaire](mdres/peg_solitaire_puzzle.gif)  
 Image source: http://www.gibell.net/pegsolitaire/diagonal/index.html
 ```
 $ python3 grid_peg_solitaire_puzzle.py
 ```
 
-## Solving MN puzzle (15-puzzle)
+### Solving MN puzzle (15-puzzle)
 <img src="mdres/15-puzzle.svg" width="300"/> <img src="mdres/15-puzzle-sol.svg" width="300"/>  
 Image source: https://en.wikipedia.org/wiki/15_puzzle
 ```
 $ python3 mn_puzzle.py
 ```
 
-## Solving Word ladder
+### Solving Word ladder
 ![Word ladder](mdres/wordladder_question.jpg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Word ladder solution](mdres/wordladder_solution.jpg)  
 Image source: http://www.clarity-media.co.uk/aboutpuzzles/word-ladder-puzzle
